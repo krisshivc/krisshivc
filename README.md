@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Krisshiv 👋
 
-<!--
-**krisshivc/krisshivc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech IT student at VJTI.
 
-Here are some ideas to get you started:
+Skills
+- C++
+- Java
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+- Web Development
+- Data Structures & Algorithms
+
+Projects
+- College Assignments
+- Python Utilities
+- Future Web Development Projects
+
+Goals
+- Build a strong project portfolio
+- Secure internships
+- Learn software development
